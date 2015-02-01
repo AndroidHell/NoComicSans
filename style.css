@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Comic Sans MS';
+  src: local('Verdana');
+    src: local('Arial');
+    src: local(sans-serif);
+}
+@font-face {
+  font-family: cursive;
+   src: local('Verdana');
+    src: local('Arial');
+    src: local(sans-serif);
+}
